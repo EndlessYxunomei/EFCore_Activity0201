@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EFCore_DBLibrary\EFCore_DBLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
